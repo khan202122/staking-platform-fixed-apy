@@ -130,3 +130,4 @@ the higher is the precision and the more the time remaining will be precise
 function that returns the remaining time in seconds of the staking period
 
 the higher is the precision and the more the time remaining will be precise
+the 
